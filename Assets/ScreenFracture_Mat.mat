@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ScreenFracture_Mat
+  m_Shader: {fileID: 4800000, guid: 7bf8de85c7ca41e419d0e6e2c2840336, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _CapturedFrame:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Amount: 0
+    - _BlurStrength: 0.055
+    - _BorderWidth: 0.025
+    - _Brightness: 1
+    - _Chromatic: 0.012
+    - _Contrast: 1.25
+    - _CrackWidth: 0.025
+    - _Distortion: 0.035
+    - _EdgeGlow: 1.2
+    - _FlashStrength: 0
+    - _FlipY: 0
+    - _GlitchLines: 400
+    - _GlitchStrength: 0.025
+    - _Gravity: 0.25
+    - _MotionBlur: 0.12
+    - _PaneVariation: 0.5
+    - _PosterizeSteps: 7
+    - _PosterizeStrength: 0.7
+    - _RingCount: 3
+    - _Rotation: 1.4
+    - _Saturation: 0.6
+    - _Seed: 1
+    - _Separation: 0.018
+    - _ShardCount: 14
+    - _ShockwaveStrength: 0
+    - _ShrinkSpeed: 0.99
+    - _ShrinkStart: 0.47
+    - _SmearLines: 110
+    - _SpeedLineCount: 10
+    - _SpeedLineIntensity: 0
+    - _SpeedLineSpeed: 0
+    - _SpeedLineWidth: 0.005
+    - _Strength: 0.22
+    - _Travel: 1.1
+    - _VignetteStrength: 0
+    m_Colors:
+    - _BorderColor: {r: 0.7, g: 0.9, b: 1, a: 1}
+    - _Center: {r: 0.5, g: 0.5, b: 0, a: 0}
+    - _TintColor: {r: 0.8, g: 0.9, b: 1, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

@@ -1,0 +1,134 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1750305058687386119
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: dcc159b2760729c4bb5c4aab0cc2bd07, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -527.0198
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dcc159b2760729c4bb5c4aab0cc2bd07, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.6495886
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dcc159b2760729c4bb5c4aab0cc2bd07, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1182.7025
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dcc159b2760729c4bb5c4aab0cc2bd07, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.708329
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dcc159b2760729c4bb5c4aab0cc2bd07, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7054175
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dcc159b2760729c4bb5c4aab0cc2bd07, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.023187632
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dcc159b2760729c4bb5c4aab0cc2bd07, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.01087998
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dcc159b2760729c4bb5c4aab0cc2bd07, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -92.771
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dcc159b2760729c4bb5c4aab0cc2bd07, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -265.614
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dcc159b2760729c4bb5c4aab0cc2bd07, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 264.616
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: dcc159b2760729c4bb5c4aab0cc2bd07, type: 3}
+      propertyPath: m_Name
+      value: SwordZepelli
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: dcc159b2760729c4bb5c4aab0cc2bd07, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6744913739664017651}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: dcc159b2760729c4bb5c4aab0cc2bd07, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5031934850494558385}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: dcc159b2760729c4bb5c4aab0cc2bd07, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: -345494339270508657}
+  m_SourcePrefab: {fileID: 100100000, guid: dcc159b2760729c4bb5c4aab0cc2bd07, type: 3}
+--- !u!1 &1480343957759901526 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: dcc159b2760729c4bb5c4aab0cc2bd07, type: 3}
+  m_PrefabInstance: {fileID: 1750305058687386119}
+  m_PrefabAsset: {fileID: 0}
+--- !u!54 &6744913739664017651
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1480343957759901526}
+  serializedVersion: 5
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 1
+--- !u!65 &5031934850494558385
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1480343957759901526}
+  m_Material: {fileID: 13400000, guid: b1d64901cee7bc2479109deceee76dd9, type: 2}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.048247185, y: 0.0072783804, z: 0.0066766636}
+  m_Center: {x: -0.04403021, y: -0.023078553, z: 0.06173116}
+--- !u!114 &-345494339270508657
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1480343957759901526}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed8697a9fd4ed5d4a8f1c07fa666fdd0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ThrownSword
+  rotationSpeed: 600

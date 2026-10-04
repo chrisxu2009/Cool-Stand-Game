@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Right Hand Mask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Gregorio Zepelli.001
+    m_Weight: 0
+  - m_Path: zepellifirstpersonarmature
+    m_Weight: 0
+  - m_Path: zepellifirstpersonarmature/midarmzep.l
+    m_Weight: 0
+  - m_Path: zepellifirstpersonarmature/midarmzep.l/forearmzep.l
+    m_Weight: 0
+  - m_Path: zepellifirstpersonarmature/midarmzep.l/forearmzep.l/handzep.l
+    m_Weight: 0
+  - m_Path: zepellifirstpersonarmature/midarmzep.l/forearmzep.l/handzep.l/handzep.l_end
+    m_Weight: 0
+  - m_Path: zepellifirstpersonarmature/midarmzep.r
+    m_Weight: 1
+  - m_Path: zepellifirstpersonarmature/midarmzep.r/forearmzep.r
+    m_Weight: 1
+  - m_Path: zepellifirstpersonarmature/midarmzep.r/forearmzep.r/handzep.r
+    m_Weight: 1
+  - m_Path: zepellifirstpersonarmature/midarmzep.r/forearmzep.r/handzep.r/hand zepelli.r.003
+    m_Weight: 1
+  - m_Path: zepellifirstpersonarmature/midarmzep.r/forearmzep.r/handzep.r/hand zepelli.r.003/hand
+      zepelli.r.003_end
+    m_Weight: 1
+  - m_Path: zepellifirstpersonarmature/midarmzep.r/forearmzep.r/handzep.r/indexfinger1zep.r
+    m_Weight: 1
+  - m_Path: zepellifirstpersonarmature/midarmzep.r/forearmzep.r/handzep.r/indexfinger1zep.r/indexfinger2zep.r
+    m_Weight: 1
+  - m_Path: zepellifirstpersonarmature/midarmzep.r/forearmzep.r/handzep.r/indexfinger1zep.r/indexfinger2zep.r/indexfinger3zep.r
+    m_Weight: 1
+  - m_Path: zepellifirstpersonarmature/midarmzep.r/forearmzep.r/handzep.r/indexfinger1zep.r/indexfinger2zep.r/indexfinger3zep.r/indexfinger3zep.r_end
+    m_Weight: 1
+  - m_Path: zepellifirstpersonarmature/midarmzep.r/forearmzep.r/handzep.r/middlefinger1zep.r
+    m_Weight: 1
+  - m_Path: zepellifirstpersonarmature/midarmzep.r/forearmzep.r/handzep.r/middlefinger1zep.r/middlefinger2zep.r
+    m_Weight: 1
+  - m_Path: zepellifirstpersonarmature/midarmzep.r/forearmzep.r/handzep.r/middlefinger1zep.r/middlefinger2zep.r/middlefinger3zep.r
+    m_Weight: 1
+  - m_Path: zepellifirstpersonarmature/midarmzep.r/forearmzep.r/handzep.r/middlefinger1zep.r/middlefinger2zep.r/middlefinger3zep.r/middlefinger3zep.r_end
+    m_Weight: 1
+  - m_Path: zepellifirstpersonarmature/midarmzep.r/forearmzep.r/handzep.r/pinkyfinger1zep.r
+    m_Weight: 1
+  - m_Path: zepellifirstpersonarmature/midarmzep.r/forearmzep.r/handzep.r/pinkyfinger1zep.r/pinkyfinger2zep.r
+    m_Weight: 1
+  - m_Path: zepellifirstpersonarmature/midarmzep.r/forearmzep.r/handzep.r/pinkyfinger1zep.r/pinkyfinger2zep.r/pinkyfinger3zep.r
+    m_Weight: 1
+  - m_Path: zepellifirstpersonarmature/midarmzep.r/forearmzep.r/handzep.r/pinkyfinger1zep.r/pinkyfinger2zep.r/pinkyfinger3zep.r/pinkyfinger3zep.r_end
+    m_Weight: 1
+  - m_Path: zepellifirstpersonarmature/midarmzep.r/forearmzep.r/handzep.r/ringfinger1zep.r
+    m_Weight: 1
+  - m_Path: zepellifirstpersonarmature/midarmzep.r/forearmzep.r/handzep.r/ringfinger1zep.r/ringfinger2zep.r
+    m_Weight: 1
+  - m_Path: zepellifirstpersonarmature/midarmzep.r/forearmzep.r/handzep.r/ringfinger1zep.r/ringfinger2zep.r/ringfinger3zep.r
+    m_Weight: 1
+  - m_Path: zepellifirstpersonarmature/midarmzep.r/forearmzep.r/handzep.r/ringfinger1zep.r/ringfinger2zep.r/ringfinger3zep.r/ringfinger3zep.r_end
+    m_Weight: 1
+  - m_Path: zepellifirstpersonarmature/midarmzep.r/forearmzep.r/handzep.r/thumbjoint1zep.r
+    m_Weight: 1
+  - m_Path: zepellifirstpersonarmature/midarmzep.r/forearmzep.r/handzep.r/thumbjoint1zep.r/thumbjoint2zep.r
+    m_Weight: 1
+  - m_Path: zepellifirstpersonarmature/midarmzep.r/forearmzep.r/handzep.r/thumbjoint1zep.r/thumbjoint2zep.r/thumbjoint2zep.r_end
+    m_Weight: 1
