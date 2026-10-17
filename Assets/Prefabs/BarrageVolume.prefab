@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7443117985558252375}
   - component: {fileID: 2742594913980544021}
+  - component: {fileID: 4045976747032809108}
   m_Layer: 0
   m_Name: BarrageVolume
   m_TagString: Untagged
@@ -49,3 +50,24 @@ MonoBehaviour:
   blendDistance: 0
   weight: 0
   sharedProfile: {fileID: 11400000, guid: 2269378a129fd7244b25ef240a1bfeb7, type: 2}
+--- !u!114 &4045976747032809108
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 765151900006639281}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5083ead42128bc4bad51cba4f2fd316, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ThrownSwordProjectile
+  flySpeed: 50
+  flyDuration: 3
+  spinSpeed: 1440
+  spinAxis: {x: 0, y: 0, z: 1}
+  bounceRadius: 0.15
+  wallLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  owner: {fileID: 0}
